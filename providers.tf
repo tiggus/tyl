@@ -1,3 +1,3 @@
-required_providers {
-    azure = "hashicorp/azuread"
-}
+# required_providers {
+#     azure = "hashicorp/azuread"
+# }
