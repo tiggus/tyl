@@ -1,4 +1,4 @@
-variable "project" {
-    type = string 
-    default = "tyl"
-}
+# variable "project" {
+#     type = string 
+#     default = "tyl"
+# }
